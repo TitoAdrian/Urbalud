@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="logoSatrdays.webp" alt="Logo" width="300" height="80">
+    <img src="images/logoSatrdays.webp" alt="Logo" width="300" height="80">
   </a>
 
   <h3 align="center">Urbalud</h3>
@@ -47,6 +47,7 @@
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#teammembers">Miembros de el equipo</a></li>
   </ol>
 </details>
 
@@ -120,5 +121,15 @@ A través del uso de modelos de inteligencia artificial para la predicción que 
 Cómo producto final quizá se buscaría que haya un filtrado por años e incluso por zona geográfica.
 
 El producto final busca generar un mapa predictivo de la demanda del sector salud, en base al crecimiento de la población, la mancha urbana tanto el sector económico de la población.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Miembros de el equipo
+
+<div align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="images/BlueTeam.jpg" alt="Logo" width="300" height="80">
+  </a>
+</div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
