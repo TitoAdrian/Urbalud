@@ -31,7 +31,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#Suficiencia-de-centros-de-salud-en-el-territorio-de-Jalisco">Suficiencia de centros de salud en el territorio de Jalisco</a></li>
       </ul>
     </li>
     <li>
@@ -43,13 +43,25 @@
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#Alcance">Alcance</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
-    <li><a href="#teammembers">Miembros de el equipo</a></li>
+    <li><a href="#Miembros de el equipo">Miembros de el equipo</a></li>
   </ol>
 </details>
+
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+[![Product Name Screen Shot][product-screenshot]](https://sauldev1317-urbalud-app-2hatnf.streamlit.app)
+
+Se Creo una Pagina con
+
+[![streamlit][streamlit.com]][streamlit-url]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## Suficiencia de centros de salud en el territorio de Jalisco
@@ -62,10 +74,11 @@ Impacto social principal
 Acceso a infraestructura para la salud es un derecho básico de la población, generando visibilidad de las necesidades actuales y  las demandas que se pudieran presentar ante una emergencia o futuro cercano.
 Impacto hacia los Objetivos de Desarrollo Sostenible (Seleccionar https://www.un.org/sustainabledevelopment/es/objetivos-de-desarrollo-sostenible/)
 Alineación a los Objetivos de Desarrollo Sostenible.
-11 Ciudades y comunidades sostenibles
-11.1 De aquí a 2030, asegurar el acceso de todas las personas a viviendas y servicios básicos adecuados, seguros y asequibles y mejorar los barrios marginales
-3 Salud y Bienestar
-3.8  Lograr la cobertura sanitaria universal, en particular la protección contra los riesgos financieros, el acceso a servicios de salud esenciales de calidad y el acceso a medicamentos y vacunas seguros, eficaces, asequibles y de calidad para todos
+
+* 11 Ciudades y comunidades sostenibles
+* 11.1 De aquí a 2030, asegurar el acceso de todas las personas a viviendas y servicios básicos adecuados, seguros y asequibles y mejorar los barrios marginales
+* 3 Salud y Bienestar
+* 5.8  Lograr la cobertura sanitaria universal, en particular la protección contra los riesgos financieros, el acceso a servicios de salud esenciales de calidad y el acceso a medicamentos y vacunas seguros, eficaces, asequibles y de calidad para todos
 
 ## Descripción del problema específico
 La falta de servicios de salud de calidad en el Área urbana del estado de Jalisco representa  un desperdicio en materia de capital humano, el cual tiene repercusiones en los diferentes sectores productivos como los son Económico, Educativo, Social entre los demás rubros.
@@ -128,8 +141,15 @@ El producto final busca generar un mapa predictivo de la demanda del sector salu
 
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/BlueTeam.jpg" alt="Logo" width="300" height="80">
+    <img src="images/BlueTeam.jpg" alt="Logo" width="700" height="500">
   </a>
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+[Streamlit.com]: https://img.shields.io/badge/streamlit-563D7C?style=for-the-badge&logo=streamlit&logoColor=white
+[Streamlit-url]: https://streamlit.io
+
+[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
+[JQuery-url]: https://jquery.com 
