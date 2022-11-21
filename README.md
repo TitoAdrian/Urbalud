@@ -36,6 +36,7 @@
     <li><a href="#Hipótesis">Hipótesis</a></li>
     <li><a href="#Descripción-de-las-fuentes-de-información">Descripción de las fuentes de información</a></li>  
     <li><a href="#Descripción-de-la-solución">Descripción de la solución</a></li>
+    <li><a href="#Documentacion-Avanzada">Documentacion Avanzada</a></li>
     <li><a href="#Miembros-de-el-equipo">Miembros de el equipo</a></li>
   </ol>
 </details>
@@ -46,15 +47,9 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://sauldev1317-urbalud-app-2hatnf.streamlit.app)
 
-Se Creo una Pagina con
+Pagina creada con
 
 [![streamlit][streamlit.com]][streamlit-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Documentacion Avanzada
-
-[![Product Name Screen Shot][urbalud-ia-screenshot]](https://medium.com/@fjavier.delatorres/urbalud-ia-que-identifica-si-existe-suficiencia-de-centros-de-salud-en-%C3%A1reas-urbanas-de-jalisco-a7b767f8319c)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -75,12 +70,19 @@ Alineación a los Objetivos de Desarrollo Sostenible.
 * 5.8  Lograr la cobertura sanitaria universal, en particular la protección contra los riesgos financieros, el acceso a servicios de salud esenciales de calidad y el acceso a medicamentos y vacunas seguros, eficaces, asequibles y de calidad para todos
 
 ## Descripción del problema específico
-La falta de servicios de salud de calidad en el Área urbana del estado de Jalisco representa  un desperdicio en materia de capital humano, el cual tiene repercusiones en los diferentes sectores productivos como los son Económico, Educativo, Social entre los demás rubros.
+
+La falta de servicios de salud de calidad en el Área urbana del estado de Jalisco representa  un desperdicio en materia de capital humano, el cual tiene repercusiones en los diferentes sectores productivos como los son 
+
+<br />
+
+[![Económico][Económico-shield]][Económico-url]
+[![Educativo][Educativo-shield]][Educativo-url]
+[![Social][Social-shield]][Social-url]
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
   
 ## Idea central del proyecto
 El acceso y la asequibilidad  de la población para los servicios de salud por sí solos no son suficientes, para ellos se desarrollará una herramienta de predicción de los  requerimientos de cobertura de atención médica de calidad en los centros de salud  de acuerdo a las tendencias de los diferentes sectores de la  población.
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 Los protocolos de atención a la población para los diferentes servicios de atención primaria y secundaria como lo son enfermedades  que requieran hospitalización contemplando las hipótesis más catastróficas.
 Objetivo: Identificar cuántos y cuáles son los servicios necesarios de los centros de salud se requieren al 2030 en el área Metropolitana.
@@ -100,22 +102,29 @@ De acuerdo a los protocolos reglamentarios para la accesibilidad a la salud y lo
 Población específica a la que se dirige el proyecto (describir detalladamente los usuarios. Explicar detalladamente si los usuarios de su  producto/servicio final serán ejecutivos, operativos de áreas específicas de  alguna organización; público en general, sociedad civil; si el acceso a su  producto/servicio será público o restringido y cualquier detalle que  consideren pertinente)
 
 El resultado de la predicción puede ser utilizado por las organizaciones responsables para el desarrollo urbano para vivienda adecuada.
-Organismos Nacionales e Internacionales de Vivienda
-Banco Interamericano de Desarrollo.
-Cámara Nacional de la Industria de Desarrollo y Promoción de Vivienda.
-Comisión Económica para América Latina.
-Cámara Mexicana de la Industria de la Construcción.
-Consejo Nacional de Población.
-Comisión Nacional de Vivienda.
+* Organismos Nacionales e Internacionales de Vivienda
+* Banco Interamericano de Desarrollo.
+* Cámara Nacional de la Industria de Desarrollo y Promoción de Vivienda.
+* Comisión Económica para América Latina.
+* Cámara Mexicana de la Industria de la Construcción.
+* Consejo Nacional de Población.
+* Comisión Nacional de Vivienda.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Descripción de las fuentes de información 
 Las fuentes de alimentación de datos serán extraídas por fuentes oficiales del gobierno como lo son las instituciones de Salud, censos generados por INEGI. Los datos  con los cuales se trabajará son abiertos  
-Directorio Nacional de Unidades Económicas DENUE, del Instituto Nacional de Estadística y Geografía INEGI
-Proyecciones Comisión Nacional de Población CONAPO: https://datos.gob.mx/busca/dataset/proyecciones-de-la-poblacion-de-mexico-y-de-las-entidades-federativas-2016-2050 
-Equipamiento de Salud https://geoespacial.ruv.org.mx/map 
-Censo de Población  Vivienda 2020.
-Parámetro inicial de normas de SEDESOL (80’s 90’s)
+* Directorio Nacional de Unidades Económicas DENUE 
+* Instituto Nacional de Estadística y Geografía INEGI
+* Proyecciones Comisión Nacional de Población CONAPO
+  ```
+    https://datos.gob.mx/busca/dataset/proyecciones-de-la-poblacion-de-mexico-y-de-las-entidades-federativas-2016-2050
+  ```
+* Equipamiento de Salud 
+  ```
+    https://geoespacial.ruv.org.mx/map 
+  ````
+* Censo de Población  Vivienda 2020.
+* Parámetro inicial de normas de SEDESOL (80’s 90’s)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Descripción de la solución 
@@ -131,7 +140,13 @@ El producto final busca generar un mapa predictivo de la demanda del sector salu
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Miembros de el equipo
+### Documentacion Avanzada
+
+[![Product Name Screen Shot][urbalud-ia-screenshot]](https://medium.com/@fjavier.delatorres/urbalud-ia-que-identifica-si-existe-suficiencia-de-centros-de-salud-en-%C3%A1reas-urbanas-de-jalisco-a7b767f8319c)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Acerca de Nosotros
 
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
@@ -141,11 +156,17 @@ El producto final busca generar un mapa predictivo de la demanda del sector salu
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-[Streamlit.com]: https://img.shields.io/badge/streamlit-563D7C?style=for-the-badge&logo=streamlit&logoColor=white
+[Streamlit.com]: https://img.shields.io/badge/streamlit-ff4b4b?style=for-the-badge&logo=streamlit&logoColor=white
 [Streamlit-url]: https://streamlit.io
 
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
 
 [urbalud-ia-screenshot]: images/Urbalud_IA.png
+
+[Económico-shield]: https://img.shields.io/badge/-Econ%C3%B3mico-black.svg?style=for-the-badge&logo=Bitcoin%20SV&colorB=555
+[Económico-url]: https://linkedin.com/in/othneildrew
+[Educativo-shield]: https://img.shields.io/badge/-Educativo-black.svg?style=for-the-badge&logo=BookStack&colorB=555
+[Educativo-url]: https://linkedin.com/in/othneildrew
+[Social-shield]: https://img.shields.io/badge/Social-black.svg?style=for-the-badge&logo=Draugiem.lv&colorB=555
+[Social-url]: https://linkedin.com/in/othneildrew
