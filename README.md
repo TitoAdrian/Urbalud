@@ -26,28 +26,17 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary>Tabla de Contenido</summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#Suficiencia-de-centros-de-salud-en-el-territorio-de-Jalisco">Suficiencia de centros de salud en el territorio de Jalisco</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#Suficiencia-de-centros-de-salud-en-el-territorio-de-Jalisco">Suficiencia de centros de salud en el territorio de Jalisco</a></li>
+    <li><a href="#Descripción-del-problema-específico">Descripción del problema específico</a></li>
+    <li><a href="#Idea-central-del-proyecto">Idea central del proyecto</a></li>
     <li><a href="#Alcance">Alcance</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-    <li><a href="#Miembros de el equipo">Miembros de el equipo</a></li>
+    <li><a href="#Hipótesis">Hipótesis</a></li>
+    <li><a href="#Descripción-de-las-fuentes-de-información">Descripción de las fuentes de información</a></li>  
+    <li><a href="#Descripción-de-la-solución">Descripción de la solución</a></li>
+    <li><a href="#Miembros-de-el-equipo">Miembros de el equipo</a></li>
   </ol>
 </details>
 
@@ -84,7 +73,7 @@ Alineación a los Objetivos de Desarrollo Sostenible.
 La falta de servicios de salud de calidad en el Área urbana del estado de Jalisco representa  un desperdicio en materia de capital humano, el cual tiene repercusiones en los diferentes sectores productivos como los son Económico, Educativo, Social entre los demás rubros.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
   
-## Idea central del proyecto:
+## Idea central del proyecto
 El acceso y la asequibilidad  de la población para los servicios de salud por sí solos no son suficientes, para ellos se desarrollará una herramienta de predicción de los  requerimientos de cobertura de atención médica de calidad en los centros de salud  de acuerdo a las tendencias de los diferentes sectores de la  población.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
