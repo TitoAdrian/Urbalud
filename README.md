@@ -52,6 +52,11 @@ Se Creo una Pagina con
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### Documentacion Avanzada
+
+[![Product Name Screen Shot][urbalud-ia-screenshot]](https://medium.com/@fjavier.delatorres/urbalud-ia-que-identifica-si-existe-suficiencia-de-centros-de-salud-en-%C3%A1reas-urbanas-de-jalisco-a7b767f8319c)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Suficiencia de centros de salud en el territorio de Jalisco
 
@@ -142,3 +147,5 @@ El producto final busca generar un mapa predictivo de la demanda del sector salu
 
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
+
+[urbalud-ia-screenshot]: images/Urbalud_IA.png
